@@ -6,7 +6,7 @@ The OurChat project functions as a real-time messaging platform that enables use
 # Get Started
 ## To get started with OurChat, follow these steps:
 
-1. Clone the repository: git clone https://github.com/Darkhan2123/OurChat/tree/main
+1. Clone the repository: git clone https://github.com/Darkhan2123/OurChat
 2. Navigate to the project directory: cd ourchat
 3. Install dependencies: pip install -r requirements.txt
 4. Run migrations: python manage.py migrate
