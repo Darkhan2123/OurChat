@@ -1,3 +1,7 @@
 # OurChat
 Our Web-Dev Endterm Project
-hello 
+
+
+
+
+Team members:  Alexandra Tsoy, Darkhan Aukenov, Alinur Kabylzhaparov.
