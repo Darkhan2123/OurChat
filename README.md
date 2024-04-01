@@ -12,7 +12,7 @@ The OurChat project functions as a real-time messaging platform that enables use
 4. Run migrations: python manage.py migrate
 5. Start the development server: python manage.py runserver
 
-## Team members:  
+# Team members:  
 - Alexandra Tsoy
 - Darkhan Aukenov
 - Alinur Kabylzhaparov.
