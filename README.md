@@ -1,7 +1,7 @@
 # OurChat
 Our Web-Dev Endterm Project
 
-A small functional person-to-person message center application built using Angular and Django.
+A small functional person-to-person message center application built using Angular and Django. 
 
 
 
